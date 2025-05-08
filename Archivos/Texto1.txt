@@ -1,0 +1,3 @@
+Este es el texto de prueba del archivo Texto1.txt
+Hola simon bienvenido al curso
+Edad = 18
